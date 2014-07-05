@@ -1,0 +1,10 @@
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\bin\Debug\ASS-EDYL.exe.config
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\bin\Debug\ASS-EDYL.exe
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\bin\Debug\ASS-EDYL.pdb
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\obj\Debug\ASS_EDYL.Form1.resources
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\obj\Debug\ASS_EDYL.form2.resources
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\obj\Debug\ASS_EDYL.Properties.Resources.resources
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\obj\Debug\ASS-EDYL.csproj.GenerateResource.Cache
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\obj\Debug\ASS-EDYL.exe
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\obj\Debug\ASS-EDYL.pdb
+C:\Users\Public\Videos\.continuum\Desktop\c#(ass)\ASS-EDYL\ASS-EDYL\obj\Debug\ASS-EDYL.csprojResolveAssemblyReference.cache
